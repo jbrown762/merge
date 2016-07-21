@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Hi My name is Joey
 I am 12 years old
 
 Hi My name is Michael
 I am 23 years old
+=======
+My name is Jake
+my age is -sqrt(-9);
+>>>>>>> 9891a8394b9275a912cc9a0345fbb6e1c46b8bca
